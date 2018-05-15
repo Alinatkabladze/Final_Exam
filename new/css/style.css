@@ -490,5 +490,12 @@ footer h6 {
 	font-size:9px;
 	text-align:center;
 }
+	 .bio img, .image .background{
+		width: 90%;
+		height: 300px;
+	}
+	.bio img, .image {
+		margin-left:2%;
+	}
 
 }
