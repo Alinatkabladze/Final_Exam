@@ -249,7 +249,7 @@ position: relative;
 	padding-top: 60px;
 	padding-bottom: 100px;
 	display: flex;
-	margin-right:60px;
+	margin-left:60px;
 }
 .image {
 	margin-left: 3%;
@@ -257,7 +257,7 @@ position: relative;
 .grey .text {
 	font-family:nino-mkhedruli-book;
 	vertical-align: top;
-	margin-left: 19.7%;
+	margin-left: 15.7%;
 }
 .bio span {
 	margin-left: 0%;
