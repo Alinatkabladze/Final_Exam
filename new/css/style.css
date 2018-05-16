@@ -249,7 +249,8 @@ position: relative;
 	padding-top: 60px;
 	padding-bottom: 100px;
 	display: flex;
-	margin-left:60px;
+	margin-left:80px;
+	margin-right:80px;
 }
 .image {
 	margin-left: 3%;
