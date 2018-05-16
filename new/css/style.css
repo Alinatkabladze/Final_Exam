@@ -210,6 +210,8 @@ h5 {
 .hover {
 	width: 44px;
 	height: 44px;
+	margin-right:auto;
+	margin-left:auto;
 	transform: translate(360%,100%);
 }
 .overlay p{
