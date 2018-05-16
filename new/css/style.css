@@ -210,8 +210,7 @@ h5 {
 .hover {
 	width: 44px;
 	height: 44px;
-	margin-right:auto;
-	margin-left:auto;
+	margin-right:5%;
 	transform: translate(360%,100%);
 }
 .overlay p{
@@ -259,7 +258,7 @@ position: relative;
 .bio .text {
 	font-family:nino-mkhedruli-book;
 	vertical-align: top;
-	margin-left: 15.7%;
+	margin-left: 19.7%;
 }
 .bio span {
 	margin-left: 0%;
