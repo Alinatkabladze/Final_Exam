@@ -244,11 +244,12 @@ overflow:hidden;
 	margin-top: 30px;
 }
 .bio {
-
-position: relative;
-	padding-top: 60px;
-	padding-bottom: 100px;
-	display: flex;
+    margin-left:60px;
+    margin-right:60px;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 100px;
+     display: flex;
 }
 .image {
 	margin-left: 3%;
