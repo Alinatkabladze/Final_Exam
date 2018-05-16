@@ -154,6 +154,10 @@ margin-bottom:45px;
 	margin-bottom:15px;
 }
 
+h4 {
+	display:none;
+}
+
 h5 {
 	margin-top:60px;
 	margin-bottom:15px; 
@@ -254,7 +258,6 @@ position: relative;
 	font-family:nino-mkhedruli-book;
 	vertical-align: top;
 	margin-left: 15.7%;
-	width:600px;
 }
 .bio span {
 	margin-left: 0%;
